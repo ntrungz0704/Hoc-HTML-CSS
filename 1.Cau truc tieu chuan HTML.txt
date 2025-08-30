@@ -1,0 +1,17 @@
+Đuôi mở rộng " .html "
+
+<!DOCTYPE html>
+<html lang ="en">
+	<head>
+		<!-- Các thẻ meta ở đây -->
+	</head>
+	<body>
+		<!-- Nội dung trang web ở đây -->
+	</body>
+</html>
+
+
+// Khai báo !DOCTYPE giúp browser hiểu về phiên bản HTML đang sử dụng, hiện nay HTML5
+// html khai báo thêm attribute lang = " mã NNgữ "
+// head là nơi chứa các thẻ meta, cung cấp thêm thông tin hiển thị của Web, tiêu đề, các link, khả năng thu phóng
+// body là nơi chứa toàn bộ ndung của Web { head == body } ngang cấp bậc và luôn là thẻ con trực tiếp của HTML
