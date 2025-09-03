@@ -1,0 +1,25 @@
+Được sử dụng để cung cấp thêm tt và data cho web, là 1 trong số thẻ tự đóng  và được khai báo tại vị trí đầu tiên trong thẻ <head>
+
+<metea />
+
+Cần bổ sung thêm các thuộc tính để trở nên có ý nghĩa sử dụng và chủ đích
+
++ Chỉ định bảng mã ký tự
++ Ccap title cho web ccu tìm kiếm
++ Chỉ định cách hiển thị web trên nhiều tbi
++ Ccap tt của web cho trình thu thập dữ liệu
+
+
+1) meta charset
+<meta charset="UTF-8" />
+
+2) meta title
+<title>HTML, CSS từ Zero đến Hero | by F8</title>
+=> tiêu đề hiển thị trên thanh tab trình duyệt
+
+3) meta viewport
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+=> hỗ trợ tối ưu trên nhiều thiết bị khác nhau
+
+width=device-witth ( yêu cầu trình duyệt đặt chiều rộng của web = chiều rộng của thiết bị )
+inital-scale=1.0 ( nhằm giữ đúng kthuoc/ tỉ lệ mặc định của web )
