@@ -1,0 +1,4 @@
+Là những đoạn code tái sử dụng nhiều nơi ít sự thay đổi
+
+Tạo cấu trúc chuẩn HTML = tính năng Emmet
+Ấn ! sau đó nhấn nút TAB rồi ENTER
