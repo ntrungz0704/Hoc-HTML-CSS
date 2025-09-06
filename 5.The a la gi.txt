@@ -1,0 +1,21 @@
+Nếu không khai báo attr href thì thẻ <a> ko phải là 1 siêu liên kết
+
+<a href=" ">Tải lại trang</a>
+=> Tải lại trang
+
+<a href="#">Tải lại trang</a>
+=> Lên đầu trang
+
+
+# Thuộc tính target của thẻ <a>
+
+target="_self" : là mở liên kết từ trang hiện tại ( mặc định )
+target="_blank" : là mở liên kết ở trong tab mới
+
+Vấn đề về hiệu năng và bảo mật khi sử dụng target="_blank"
+Khắc phục bằng cách không cho nó can thiệp vào link gốc của chúng ta
+rel="noopener"
+
+<a href="https://f8.edu.vn" target="_blank" rel="noopener">
+    Học lập trình tại F8
+</a>
