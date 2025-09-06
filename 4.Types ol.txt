@@ -1,0 +1,20 @@
+<ol>
+
+reversed : đảo ngược
+
+<ol reversed>
+	<li> </li>
+</ol>
+
+
+start : dếm từ giá trị mong muốn
+
+<ol start = "50">
+	<li> </li>
+</ol>
+
+type : có 5 giá trị (1, A, a, I, i )
+
+<ol type = " ">
+	<li> </li>
+</ol>
