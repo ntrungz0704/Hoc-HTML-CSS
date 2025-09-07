@@ -1,0 +1,13 @@
+img thẻ tự đóng
+
+thuộc tính
+src ( bắt buộc ) : nguồn liên kết đến source
+src : nếu như ko muốn lỗi hình ảnh thì tải hình ảnh về và dùng đường dẫn tương đối, tuyệt đối
+
+alt ( bắt buộc ) : sẽ hiển thị khi hình ảnh bị lỗi hiển thị
+Hình ảnh bị lỗi (bị xóa, lỗi khi tải ảnh, v.v)
+Công cụ tìm kiếm thu thập dữ liệu trên trang
+Người dùng sử dụng trình đọc màn hình
+
+height, width ( ko bắt buộc ) : chiều cao, chiều rộng
+height, width : ko nên sử dụng kích thước lớn hơn kích thước ảnh sẽ bị mờ và hãy đặt đúng tỉ lệ
