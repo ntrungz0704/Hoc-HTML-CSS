@@ -1,0 +1,97 @@
+Cách phân biệt ảnh là định dạng gì
+=> Nhìn vào đuôi mở rộng
+
+1) JPG/ JPEG
+=> dạng ảnh bitmap là từ những điểm ảnh ô vuông tạo thành bức ảnh sẽ bị vỡ khi phóng quá lớn
+=> chiếm khoảng 75%
+
+Ưu điểm
++ mức độ nén cao
++ hỗ trợ mọi browser
++ hỗ trợ hiển thị hàng triệu màu sắc
+
+Nhược điểm
++ hình có thể bị vỡ
++ ko hỗ trợ nền trong suốt
++ chất lượng bị giảm khi độ nén cao
++ ko hỗ trợ ảnh động
+
+=> Dùng khi
++ hình ảnh nội dung post
++ ảnh quảng cáo, banner, ko đòi hỏi ảnh trong suốt
+
+
+
+2) PNG
+=> dạng ảnh bitmap là từ những điểm ảnh ô vuông tạo thành bức ảnh sẽ bị vỡ khi phóng quá lớn
+=> chiếm khoảng 80%
+
+Ưu điểm
++ hỗ trợ nền trong suốt
++ chất lượng ko bị đổi khi nén ko mất dữ liệu
++ hỗ trợ mọi trình duyệt
++ hỗ trợ hiển thị hàng triệu màu sắc
+
+Nhược điểm
++ hình có thể bị vỡ
++ ko hỗ trợ ảnh động
+
+=> Dùng khi
++ yêu cầu có nền trong suốt
++ các hình ảnh có kết hợp màu phức tạp như màu chuyển gradient
++ các ảnh cần chỉnh sửa nhiều lần vì chất lượng của nó sẽ ko bị giảm
+
+
+
+3) SVG ( định dạng vector )
+=> ko phải dạng bitmap, ko bị vỡ phóng lớn vô hạn
+=> chiếm khoảng 51% hơn càng tăng
+
+Ưu điểm
++ dung lượng nhỏ
++ dễ dàng chỉnh sửa bằng CSS
++ phóng lớn ko bị vỡ ảnh
++ hỗ trợ ảnh động
++ hỗ trợ ảnh trong suốt
++ hỗ trợ mọi browser
+
+Nhược điểm
++ dung lượng sẽ tăng cao nếu hình có nhiều họa tiết khác nhau, phức tạp vì nó là dạng vector của các ct toán học
++ ko thể đọc 1 phần của định dạng ảnh nếu muốn ảnh hiển thị thì phải đợi tải hết
+
+=> Dùng khi
++ logo, icon với tke dạng hình học, vector
++ hình ảnh cần đáp ứng nhiều kthuoc khác nhau
+
+
+
+4) GIF
+=> dạng bitmap giống JPG và PNG
+=> chiếm khoảng 21%
+=> hỗ trợ ảnh động
+
+Ưu điểm
++ dung lượng nhỏ
++ hỗ trợ ảnh trong suốt
++ hỗ trợ ảnh động
++ hỗ trợ mọi browser
+
+Nhước điểm
++ màu bị hạn chế
++ ko chỉnh sửa được ảnh động
++ ảnh sẽ chưa chuyển động nếu mạng lag hoặc ảnh lớn
+
+
+
+5) WebP
+=> do gg tạo ra tối ưu hiệu năng web dung lượng thấp
+=> chiếm khoảng 5% chưa phổ biến
+
+Ưu điểm
++ dung lượng nhỏ hơn JPG, PNG
++ hỗ trợ ảnh trong suốt
++ hỗ trợ ảnh động
+
+Nhược điểm
++ chưa hỗ trợ mọi browser
++ bị giảm chất lượng hình ảnh khi nén

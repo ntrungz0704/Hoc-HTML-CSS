@@ -1,0 +1,13 @@
+Đây ko phải là định dạng ảnh. Base64 là một chương trình mã hóa chuỗi ký tự
+
+Ưu điểm
++ ảnh đi theo code HTML, CSS ko phải tải qua URL
++ giảm số lượng kết nối, tăng tốc độ tải trang
+
+Nhược điểm
++ ko tái sử dụng được như URL
++ khi ảnh lớn thì chuỗi mã hóa lớn, gây nặng file HTML, CSS tải web lâu
++ hình ảnh ko được công cụ tìm kiếm đánh dấu chỉ mục
+
+=> Dùng khi
++ Muốn ảnh đi kèm theo code
