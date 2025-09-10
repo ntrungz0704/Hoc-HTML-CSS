@@ -1,0 +1,16 @@
+<img> hiển thị hình ảnh
+
+Thẻ <figure> được bổ sung ngữ nghĩa cho thẻ <img> sử dụng để thể hiện hình ảnh trong nội dung tài liệu như hình minh họa, biểu đồ, khối code,...
+Dùng với âm thanh, video, biểu đồ
+Ko dùng trong tài liệu, biểu tượng, avt, bìa, banner, hình ảnh mang tính trang trí
+
+
+Thẻ <figcaption> dùng để bổ sung chú thích cho nội dung được thể hiện bằng thẻ <figure>. Ví dụ như chú thích cho một hình ảnh, video, biểu đồ, v.v.
+=> Bạn dùng <figure> thì mới dùng <figcaption>
+
+<figcaption> nằm ở bên trong thẻ <figure>
+
+Lưu ý:
+Ko bắt buộc sử dụng
+Luôn nằm bên trong thẻ <figure>
+Đặt ở phần trên thẻ <img> hay bên dưới cũng được
