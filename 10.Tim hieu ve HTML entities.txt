@@ -1,0 +1,14 @@
+Sử dụng nó khi muốn hiển thị CODE minh họa cho độc giả
+
+HTML entities là các chuỗi bắt đầu bằng dấu & và kết thúc bằng dấu ;
++ các ký tự có ý nghĩa đặc biệt hoặc trùng với các ký tự trong HTML
++ các ký tự ko dễ dàng hoặc ko nhập được từ bàn phím
+
+Link tra cứu:
+https://www.w3.org/wiki/Common_HTML_entities_used_for_typography
+https://www.w3schools.com/html/html_entities.asp
+
+
+Và đặc biệt Non-breaking space Entity
+Sử dụng: &nbsp;
+vào mục đích muốn các từ đi cùng vào nhau nếu như trang web bị thu nhỏ lại và chữ rớt xuống thì ví dụ 2 cái sẽ rớt cùng lúc
