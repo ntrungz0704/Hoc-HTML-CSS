@@ -1,0 +1,24 @@
+Thẻ pre, code
+
+pre ôm thẻ code giữ nguyên định dạng bên trong code, hụt đầu dòng, dấu cách,...
+
+Link chuyển đổi
+https://codebeautify.org/html-escape-unescape
+
+Thể hiện code trong 1 đoạn văn
+<p>Thẻ <code>&lt;h1&gt;</code> là tiêu đề chính</p>
+
+
+Thể hiện 1 khối code độc lập
+    <pre>
+<code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</code>
+    </pre>

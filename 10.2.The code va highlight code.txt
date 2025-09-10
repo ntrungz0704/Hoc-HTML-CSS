@@ -1,0 +1,13 @@
+Highlight code với PrismJS
+
+Sẽ dùng JS
+
+Bước 1: Nhúng link vào thẻ của thư viện PrismJS vào thẻ head
+Bước 2: Nhúng thẻ script vào trước thẻ đóng </body>
+Bước 3: Thêm class="language-html" cho thẻ <code class="language-html"> </code>
+Tùy vào ngôn ngữ muốn highlight thì ta sẽ để là -html, -css hay -js
+Thư viện
+https://prismjs.com/
+
+
+https://www.jsdelivr.com/package/npm/prismjs?tab=files&path=themes
