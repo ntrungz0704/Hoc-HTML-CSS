@@ -1,0 +1,13 @@
+CSS Prefix
+
+1. Làm sao phân biệt các thuộc tính nào cần tiền tố
+2. Làm sao phân biệt được webkit nào
+
+Công cụ: Css autoprefixer
+Link: https://autoprefixer.github.io/
+
+mỗi browser đều có engine ( lõi )
+-webkit- cho Chrome, Safari, hệ điều hành iOS, Android
+-moz- cho Firefox
+-o- cho Opera.
+-ms- cho Internet Explorer và các phiên bản cũ của Edge
