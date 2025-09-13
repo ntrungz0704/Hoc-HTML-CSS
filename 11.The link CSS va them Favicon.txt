@@ -1,0 +1,15 @@
+Thẻ link:
++ liên kết file css
++ thêm favicon
++ tạo kết nối trước
++ tính hợp lệ
+
+
+Link tạo Favicon:
+https://www.favicon-generator.org/
+
+
+Tạo kết nối trước để tránh trang web LOAD lâu
+thuộc tính rel="preconnect"
+
+DNS (IP) -> TCP -> TLS - bla bla bla
