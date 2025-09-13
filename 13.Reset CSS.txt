@@ -1,0 +1,6 @@
+Link Reset nên tạo ra 1 file " reset.css " riêng
+
+
+Nên sử dụng cái đầu tiên
+https://meyerweb.com/eric/tools/css/reset/
+https://github.com/necolas/normalize.css/blob/master/normalize.css
